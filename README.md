@@ -68,7 +68,8 @@ I'm a self-taught developer balancing school with my love for software engineeri
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanCode22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Aman's GitHub Stats" />
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmanCode22&show_icons=true&theme=tokyonight&hide_border=true" alt="Aman's GitHub Stats" />
+
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanCode22&theme=tokyonight&hide_border=true" alt="Aman's GitHub Streak" />
   <br><br>
