@@ -1,26 +1,24 @@
 <div align="center">
   <h1>Hi, I'm Aman 👋</h1>
-  <h3>A student developer weaving logic into art, crafting open-source ecosystems, and exploring the hidden depths of system architecture.</h3>
+  <h3>A student developer building open-source tools and exploring system architecture.</h3>
 </div>
 
 ---
 
-### 🌌 The Digital Canvas
+### 👨‍💻 About Me
 
-To me, code isn't just syntax; it's the raw material for building worlds. My journey began with a simple, driving curiosity: a desire to make my digital environment truly mine. That curiosity led me to dismantle Linux desktop environments, weave custom scripts, and eventually look beneath the surface of the software we use every day. 
+I'm a student who enjoys coding, Linux customization, and learning how software works under the hood. I balance school with my programming projects, which range from full-stack applications to custom desktop utilities and language design.
 
-Today, I balance my school studies with the quiet thrill of compiler design, memory-safe architecture, and cross-platform engineering. Whether I am conceptualizing a new programming language or designing a sleek mobile interface, my philosophy remains the same: **the best way to understand the machine is to build the gears yourself.**
-
-- 🐧 **My Environments:** I find my flow state daily-driving **Fedora KDE**, appreciating its robust architecture, while keeping **ChromeOS** (via Brunch) close at hand for seamless, lightweight productivity.
-- 🔭 **My Current Opus:** Architecting **Ethos**—a modular, cross-platform programming language designed to bridge the gap between human thought and bare-metal execution.
-- 🌱 **My Evolution:** I am constantly absorbing the intricacies of language design (lexing, parsing, ASTs), C-ABI bridging, and the elegant logic of scalable backend API architecture.
+- 🐧 **Daily Setup:** I use **Fedora KDE** as my main development environment, and **ChromeOS** (via Brunch) for everyday tasks.
+- 🔭 **Currently Working On:** Developing **Ethos**, a modular programming language and package manager built from scratch.
+- 🌱 **Currently Learning:** Compiler design, system-level programming with Rust, and backend architecture.
 
 ---
 
-### 🛠️ The Architect's Palette
+### 🛠️ Tech Stack
 
 <p align="left">
-  <strong>Core Languages:</strong><br>
+  <strong>Languages:</strong><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -37,7 +35,7 @@ Today, I balance my school studies with the quiet thrill of compiler design, mem
 </p>
 
 <p align="left">
-  <strong>Systems, OS & Environments:</strong><br>
+  <strong>Systems & Tools:</strong><br>
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
   <img src="https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white" alt="KDE" />
   <img src="https://img.shields.io/badge/ChromeOS_(Brunch)-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ChromeOS" />
@@ -47,27 +45,25 @@ Today, I balance my school studies with the quiet thrill of compiler design, mem
 
 ---
 
-### 🚀 Crafted Projects & Ecosystems
+### 🚀 Projects
 
-**[Ethos] : The Language Ecosystem**
-A next-generation programming environment built entirely from scratch to solve the "Two-Language Problem." It marries highly readable syntax with native execution speeds, free from bloated toolchains.
-- 🗣️ **The Engine:** A custom Lexer & Parser translating human-centric logic into an isolated *Memory Box* execution environment.
-- 🧩 **Traits (Extension API):** A beautiful plugin architecture supporting both pure Python logic and native C/Rust/Java binaries via a strict C-ABI handshake.
-- 🔨 **Forge (Package Manager):** A self-sufficient, zero-dependency CLI logistics network featuring smart OS detection for seamless package resolution.
+**Ethos (Programming Language)**
+- Developing a cross-platform programming environment designed for readable syntax and native execution speeds.
+- Features a custom lexer/parser, a C-ABI plugin system (Traits) to run both pure Python and native C/Rust/Java binaries, and a zero-dependency CLI package manager (Forge).
 
-**📺 Kodi JioTV Plugin (`plugin.video.aman.jiotv`)**
-- A custom-engineered Python integration that democratizes access to media, silently handling complex token management and API parsing to deliver a native streaming experience directly within the Kodi media center.
+**Kodi JioTV Plugin (`plugin.video.aman.jiotv`)**
+- A Python-based video plugin that handles API requests and token management to allow seamless JioTV streaming directly within the Kodi media center.
 
-**🪟 GNOME Shell Extension: Maximize To Workspace With History**
-- Born from a desire to perfect my desktop workflow, this extension introduces fluid, macOS-style window management to the Linux ecosystem. 
-- *(A proud legacy of my time in Fedora GNOME, before my migration to the expansive customizability of KDE).*
+**GNOME Shell Extension: Maximize To Workspace With History**
+- An extension that mimics macOS window management by moving maximized windows to new workspaces. 
+- *(Note: Built when I daily-drove Fedora GNOME; I now use Fedora KDE!)*
 
-**📱 Full-Stack & Mobile Engineering**
-- Designing digital experiences that are as fast as they are beautiful using **React** and **React Native**, while anchoring them to the unbreakable logic of **Rust** and **Java** backends.
+**Web & Mobile Development**
+- Building user interfaces with **React** and **React Native**, alongside backend systems written in **Rust** and **Java**.
 
 ---
 
-### 📊 The GitHub Chronicle
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmanCode22&show_icons=true&theme=tokyonight&hide_border=true" alt="Aman's GitHub Stats" />
@@ -79,9 +75,7 @@ A next-generation programming environment built entirely from scratch to solve t
 
 ---
 
-### 📫 Let's Connect
-
-If you are fascinated by compiler architecture, open-source creation, or just want to discuss the finer details of desktop customization, my inbox is always open.
+### 📫 Contact
 
 <div align="center">
   <a href="mailto:amanady125@gmail.com">
