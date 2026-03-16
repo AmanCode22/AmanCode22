@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Aman 👋</h1>
-  <h3>A student developer building open-source tools and exploring system architecture.</h3>
+  <h3>A 9th grade Indian student developer building open-source tools and exploring system architecture.</h3>
 </div>
 
 ---
