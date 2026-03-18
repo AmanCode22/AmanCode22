@@ -84,5 +84,7 @@ I'm a student who enjoys coding, Linux customization, and learning how software 
   <a href="https://www.reddit.com/user/AmanCode22/">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
- 
+ <a href="https://discord.com/users/1257734355741184135">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </div>
