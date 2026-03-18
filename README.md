@@ -81,4 +81,8 @@ I'm a student who enjoys coding, Linux customization, and learning how software 
   <a href="mailto:amanady125@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://www.reddit.com/user/AmanCode22/">
+    <img src=" https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+  </a>
+ 
 </div>
