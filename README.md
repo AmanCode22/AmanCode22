@@ -40,150 +40,13 @@
 │  Aman Adlakha                                               │
 │  📍 India · 9th Grade Student                               │
 │                                                             │
-│  🐧 Daily OS: Ubuntu 24.04 LTS (KDE) + ChromeOS (Brunch)    │
+│  🐧 Daily OS: Fedora Linux (COSMIC) + ChromeOS (Brunch)     │
 │  🔭 Building: Ethos — a conversational programming language  │
 │  🌱 Learning: Compiler design, Rust systems, backend arch   │
 │  ⚡ Reverse-engineered DeepSeek's PoW solver in Rust+WASM    │
 │  📺 Creator of the Kodi JioTV plugin (archived, 9⭐)         │
 └─────────────────────────────────────────────────────────────┘
 ```
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">
-        <a href="https://github.com/AmanCode22/deeperseeker">
-          <img src="https://img.shields.io/github/stars/AmanCode22/deeperseeker?style=flat-square&logo=github&color=yellow" alt="Stars" />
-        </a>
-        <br/>🧠 DeeperSeeker
-      </h3>
-      <p align="center">
-        An unofficial DeepSeek website parser exposing OpenAI & Anthropic-compatible chat endpoints. Features proxy server, session management, account login helpers, multi-provider support, and WASM-based PoW solving. Full files API included.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/WASM-654FF0?style=flat-square&logo=webassembly&logoColor=white" />
-        <img src="https://img.shields.io/github/forks/AmanCode22/deeperseeker?style=flat-square&color=8b5cf6" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">
-        <a href="https://github.com/AmanCode22/ethos-lang">
-          <img src="https://img.shields.io/github/stars/AmanCode22/ethos-lang?style=flat-square&logo=github&color=yellow" alt="Stars" />
-        </a>
-        <br/>🔥 Ethos Programming Language
-      </h3>
-      <p align="center">
-        A conversational, English-like programming language transpiled to Python. 94 commits, 5 releases. Features a custom lexer/parser, C-ABI plugin system ("Traits") for native extensions, stdlib shims for Python compat, and its own package manager <strong>Forge</strong>. Paused — seeking testers.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Apache_2.0-D22128?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">
-        <a href="https://github.com/AmanCode22/deepseek_pow_solver">
-          <img src="https://img.shields.io/github/stars/AmanCode22/deepseek_pow_solver?style=flat-square&logo=github&color=yellow" alt="Stars" />
-        </a>
-        <br/>⚡ DeepSeek PoW Solver
-      </h3>
-      <p align="center">
-        Rust + WASM reimplementation of DeepSeek's web chat proof-of-work challenge solver. Solves in <strong>0.3s</strong> what takes pure Python <strong>66.3s</strong> — a <strong>221x speedup</strong>. Uses wasmtime for near-native speed inside Python. Pre-built WASM releases included.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-        <img src="https://img.shields.io/badge/WASM-654FF0?style=flat-square&logo=webassembly&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">
-        <a href="https://github.com/AmanCode22/tubeauth">
-          <img src="https://img.shields.io/github/stars/AmanCode22/tubeauth?style=flat-square&logo=github&color=yellow" alt="Stars" />
-        </a>
-        <br/>🔐 TubeAuth
-      </h3>
-      <p align="center">
-        YouTube Leanback/TV API login library in Rust. Reverse-engineered OAuth2 device-code flow (inspired by SmartTube). Fully compatible with Tauri V2 for desktop apps. Handles token refresh and authentication scaffolding for TV-based YouTube clients.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-        <img src="https://img.shields.io/badge/GPL_3.0-D22128?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">
-        <a href="https://github.com/AmanCode22/forge">
-          <img src="https://img.shields.io/github/stars/AmanCode22/forge?style=flat-square&logo=github&color=yellow" alt="Stars" />
-        </a>
-        <br/>📦 Forge
-      </h3>
-      <p align="center">
-        The official CLI package manager for Ethos. 44 commits, 5 releases, 2 branches. Installs Python "soft" traits (pip packages with metadata) and native "hard" traits (C/C++/Rust binaries via C-ABI). Features dependency resolution, inventory tracking, and foundry integration.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/CLI-4A90D9?style=flat-square&logo=windowsterminal&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">
-        <a href="https://github.com/AmanCode22/ethos-foundry">
-          <img src="https://img.shields.io/github/stars/AmanCode22/ethos-foundry?style=flat-square&logo=github&color=yellow" alt="Stars" />
-        </a>
-        <br/>🏗️ Ethos Foundry
-      </h3>
-      <p align="center">
-        The official Hard Trait registry for Ethos — a central index for discovering and installing native C/C++/Rust extensions via the Forge package manager. MIT licensed. HTML-based registry frontend.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/MIT_License-97CA00?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🔧 Ecosystem & Tools
-
-### Ethos Language Ecosystem
-The complete Ethos toolchain — a modular programming environment built from scratch:
-
-| Component | Description | Language | Status |
-|-----------|-------------|----------|--------|
-| [ethos-lang](https://github.com/AmanCode22/ethos-lang) | Core language: lexer, parser, runtime, stdlib shims | `Python` | ⏸️ Paused |
-| [forge](https://github.com/AmanCode22/forge) | CLI package manager: soft/hard trait installer | `Python` | ⏸️ Paused |
-| [ethos-foundry](https://github.com/AmanCode22/ethos-foundry) | Hard trait registry for native extensions | `HTML` | ⏸️ Paused |
-| [ethos-builder](https://github.com/AmanCode22/ethos-builder) | Build factory: Nuitka binary compilation, OS packaging (PPA, COPR, AUR, .exe, .pkg) | `Inno Setup` | ⏸️ Paused |
-| [ethos-lang-playground](https://github.com/AmanCode22/ethos-lang-playground) | Interactive web playground for trying Ethos in the browser | `HTML` `JS` | ✅ Active |
-| [ethos-termux-repo](https://github.com/AmanCode22/ethos-termux-repo) | Termux package repository for ethos and subparts | `Shell` | ⏸️ Paused |
-
-### Trait Templates & Samples (Ethos Plugin System)
-| Component | Description | Language |
-|-----------|-------------|----------|
-| [ethos-trait-rust-template](https://github.com/AmanCode22/ethos-trait-rust-template) | Template API for building hard traits in Rust | `Rust` |
-| [ethos-trait-cpp-template](https://github.com/AmanCode22/ethos-trait-cpp-template) | Template API for building hard traits in C++ | `CMake` `C++` |
-| [ethos-trait-c-template](https://github.com/AmanCode22/ethos-trait-c-template) | Template API for building hard traits in C | `CMake` `C` |
-| [ethos-trait-greetr](https://github.com/AmanCode22/ethos-trait-greetr) | Sample hard trait — greeting in Rust | `Rust` |
-| [ethos-trait-greetcpp](https://github.com/AmanCode22/ethos-trait-greetcpp) | Sample hard trait — greeting in C++ | `CMake` `C++` |
-| [ethos-trait-greetc](https://github.com/AmanCode22/ethos-trait-greetc) | Sample hard trait — greeting in C | `CMake` `C` |
-
-### Other Notable Work
-| Project | Description | Tech | Status |
-|---------|-------------|------|--------|
-| [plugin.video.aman.jiotv](https://github.com/AmanCode22/plugin.video.aman.jiotv) | 🏗️ **ARCHIVED** — Kodi video plugin for JioTV streaming. API requests & token management. 9⭐ legacy project. | `Python` | 📦 Archived |
-| [MaximizeWorkspaceHistory](https://github.com/AmanCode22/MaximizeWorkspaceHistory) | GNOME 45+ extension — macOS-style window management. Maximized windows move to new workspaces, restore on unmaximize. Fork of MaximizeToWorkspace. | `JavaScript` | ✅ Active |
-| [TicTacToe_cpp](https://github.com/AmanCode22/TicTacToe_cpp) | Classic Tic Tac Toe game in C++ — early learning project | `C++` | ✅ Done |
 
 ---
 
@@ -238,9 +101,8 @@ The complete Ethos toolchain — a modular programming environment built from sc
 
 ### Systems, Tools & OS
 <p>
-  <img src="https://img.shields.io/badge/Ubuntu-294172?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white" />
-  <img src="https://img.shields.io/badge/GNOME-1D99F3?style=for-the-badge&logo=gnome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/COSMIC_DE-1D99F3?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromeOS_(Brunch)-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -266,7 +128,7 @@ The complete Ethos toolchain — a modular programming environment built from sc
 </p>
 
 <p align="center">
-  <i>⭐ Star my repos if you find them useful — every star keeps me coding between school periods!</i>
+  <i>⭐ Star my repos if you find them useful!</i>
 </p>
 
 ---
