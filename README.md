@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Aman+Adlakha+%F0%9F%91%8B;9th+Grade+Student+Developer;Open+Source+Builder;Programming+Language+Designer)](https://git.io/typing-svg)
@@ -102,9 +102,8 @@
 ### Systems, Tools & OS
 <p>
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img src="https://img.shields.io/badge/COSMIC_DE-1D99F3?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromeOS_(Brunch)-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/COSMIC_EPOCH_DE-1D99F3?style=for-the-badge&logo=linux&logoColor=white" />
+   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/WASM-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
   <img src="https://img.shields.io/badge/Kodi-17B2E7?style=for-the-badge&logo=kodi&logoColor=white" />
