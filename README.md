@@ -37,7 +37,7 @@
 │  Aman Adhlakha                                               │
 │  📍 India · 9th Grade Student                               │
 │                                                             │
-│  🐧 Daily OS: Fedora Linux (COSMIC) + ChromeOS (Brunch)     │
+│  🐧 Daily OS: Fedora Linux (Niri WM+Noctalia Shell)          │
 │  🔭 Building: Ethos — a conversational programming language  │
 │  🌱 Learning: Compiler design, Rust systems, backend arch   │
 │  ⚡ Reverse-engineered DeepSeek's PoW solver in Rust+WASM    │
