@@ -1,12 +1,10 @@
- <div align="center">
-
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Aman+Adhlakha+%F0%9F%91%8B;9th+Grade+Student+Developer;Open+Source+Builder;Programming+Language+Designer)](https://git.io/typing-svg)
 
 <p align="center">
   <b>Building systems from scratch. Breaking things to understand them. Shipping code between classes.</b>
 </p>
-
 
 <p align="center">
   <a href="https://www.reddit.com/user/AmanCode22/">
@@ -19,19 +17,18 @@
     <img src="https://img.shields.io/badge/Telegram-%40AmanCode22-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://github.com/AmanCode22?tab=followers">
-    <img src="https://img.shields.io/github/followers/AmanCode22?style=for-the-badge&logo=github&color=0e75b6&labelColor=0d1117" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/AmanCode22?style=for-the-badge&logo=github&color=58A6FF&labelColor=1a1b27" alt="Followers" />
   </a>
 </p>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AmanCode22&style=for-the-badge&color=58A6FF" alt="Profile Views" />
-  <img src="https://img.shields.io/github/last-commit/AmanCode22/ethos-lang?style=for-the-badge&color=238636&labelColor=0d1117&logo=github" alt="Last Commit" />
+  <img src="https://img.shields.io/github/last-commit/AmanCode22/ethos-lang?style=for-the-badge&color=58A6FF&labelColor=1a1b27&logo=github" alt="Last Commit" />
 </p>
 
----
-
 </div>
+
+---
 
 ## 🧑‍💻 Who I Am
 
@@ -69,12 +66,8 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmanCode22&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180" />
 </p>
 
----
-
-## 📈 Contribution Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanCode22&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amancode22&theme=tokyonight" alt="AmanCode22's GitHub profile summary" />
 </p>
 
 ---
@@ -136,12 +129,9 @@
 ---
 
 <div align="center">
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanCode22/AmanCode22/refs/heads/main/dist/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanCode22/AmanCode22/refs/heads/main/dist/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AmanCode22/AmanCode22/refs/heads/main/dist/github-contribution-grid-snake.svg" />
 </picture>
-
 </div>
