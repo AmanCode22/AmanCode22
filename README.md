@@ -23,7 +23,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AmanCode22&style=for-the-badge&color=58A6FF" alt="Profile Views" />
-  <img src="https://img.shields.io/github/last-commit/AmanCode22/ethos-lang?style=for-the-badge&color=58A6FF&labelColor=1a1b27&logo=github" alt="Last Commit" />
+  <img src="https://img.shields.io/github/last-commit/AmanCode22/AmanCode22?style=for-the-badge&color=58A6FF&labelColor=1a1b27&logo=github" alt="Last Commit" />
 </p>
 
 </div>
