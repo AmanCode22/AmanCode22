@@ -102,8 +102,11 @@
 ### Systems, Tools & OS
 <p>
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img src="https://img.shields.io/badge/COSMIC_EPOCH_DE-1D99F3?style=for-the-badge&logo=linux&logoColor=white" />
-   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/niri.svg" height="28" alt="Niri" />
+  <img src="https://img.shields.io/badge/Niri-1D1B29?style=for-the-badge" />
+  <img src="https://assets.noctalia.dev/?file=noctalia-logo.svg" height="28" alt="Noctalia" />
+  <img src="https://img.shields.io/badge/Noctalia-8839EF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/WASM-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
   <img src="https://img.shields.io/badge/Kodi-17B2E7?style=for-the-badge&logo=kodi&logoColor=white" />
