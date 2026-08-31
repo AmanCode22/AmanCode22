@@ -1,7 +1,7 @@
  <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Aman+Adlakha+%F0%9F%91%8B;9th+Grade+Student+Developer;Open+Source+Builder;Programming+Language+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Aman+Adhlakha+%F0%9F%91%8B;9th+Grade+Student+Developer;Open+Source+Builder;Programming+Language+Designer)](https://git.io/typing-svg)
 
 <p align="center">
   <b>Building systems from scratch. Breaking things to understand them. Shipping code between classes.</b>
@@ -37,7 +37,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  Aman Adlakha                                               │
+│  Aman Adhlakha                                               │
 │  📍 India · 9th Grade Student                               │
 │                                                             │
 │  🐧 Daily OS: Fedora Linux (COSMIC) + ChromeOS (Brunch)     │
