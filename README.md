@@ -58,12 +58,12 @@
 ## 📊 Live Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmanCode22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanCode22&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api?username=amancode22&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=amancode22&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmanCode22&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=amancode22&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" />
 </p>
 
 <p align="center">
